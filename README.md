@@ -1,4 +1,4 @@
-# Data Science Applications in ComputerVision
+# Data Science Applications in Computer Vision
 My school homework from **#DescomplicaDigital** on Data Science Applications in Computer Vision, which merges data science's analytical power (stats, ML, deep learning) with computer vision's goal (machines interpreting images/videos) to build smart systems that learn from visual data for tasks like object detection, facial recognition, and medical diagnosis, going beyond traditional image processing to find patterns and make predictions at scale. It's about using massive visual datasets (images, videos) to train models (especially Deep Learning/CNNs) to understand, classify, segment, and interpret the visual world, enabling automated insights.
 
 ## Contents
